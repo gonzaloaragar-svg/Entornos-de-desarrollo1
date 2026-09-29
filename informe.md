@@ -34,3 +34,11 @@ Por paradigma:
 Imperativo (C, Java): le das al ordenador el paso a paso de lo que tiene que hacer.
 
 Declarativo (SQL, Haskell): le pides el resultado final sin decirle cómo llegar a él.
+3. Identificación de paradigmas a partir de ejemplos
+Fragmento 1: Imperativo. Detalla exactamente el proceso de recorrer la lista y sumar.
+
+Fragmento 2: Declarativo. Pide directamente los empleados mayores de 30 sin explicar el algoritmo de búsqueda.
+
+Fragmento 3: Declarativo. Solo define matemáticamente el factorial, sin dar instrucciones paso a paso.
+
+Fragmento 4: Imperativo. Vuelve a centrarse en el proceso exacto de comprobar uno por uno.
