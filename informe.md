@@ -50,3 +50,6 @@ Enfoque imperativo: coge dos rebanadas de pan, unta mantequilla, pon una loncha 
 Enfoque declarativo: hazme un sándwich mixto tostado.
 
 Comparación: Con el enfoque imperativo tienes el control total de cada detalle, pero la desventaja es que es pesado de explicar y es más fácil equivocarse u olvidar un paso. El enfoque declarativo es mucho más rápido y claro, pero su gran desventaja es que dependes totalmente de que el sistema (o el cocinero en este caso) ya sepa cómo hacer todo el trabajo duro, porque tú no le das instrucciones.
+Palabra del día
+[Compañeros]
+
