@@ -42,3 +42,11 @@ Fragmento 2: Declarativo. Pide directamente los empleados mayores de 30 sin expl
 Fragmento 3: Declarativo. Solo define matemáticamente el factorial, sin dar instrucciones paso a paso.
 
 Fragmento 4: Imperativo. Vuelve a centrarse en el proceso exacto de comprobar uno por uno.
+4. Actividad individual: imperativo vs. declarativo
+Actividad elegida: Hacer un sándwich.
+
+Enfoque imperativo: coge dos rebanadas de pan, unta mantequilla, pon una loncha de jamón, otra de queso, ciérralo y tuéstalo dos minutos.
+
+Enfoque declarativo: hazme un sándwich mixto tostado.
+
+Comparación: Con el enfoque imperativo tienes el control total de cada detalle, pero la desventaja es que es pesado de explicar y es más fácil equivocarse u olvidar un paso. El enfoque declarativo es mucho más rápido y claro, pero su gran desventaja es que dependes totalmente de que el sistema (o el cocinero en este caso) ya sepa cómo hacer todo el trabajo duro, porque tú no le das instrucciones.
